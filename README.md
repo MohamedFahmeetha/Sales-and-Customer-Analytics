@@ -30,6 +30,7 @@ Dashboard
 ![Dashboard1](dashboard1.png)
 ![Dashboard2](dashboard2.png)
 
+Live Demo:https://MohamedFahmeetha.github.io/Sales-and-Customer-Analytics/
 Login Details:
 Use these credentials to access the dashboard:
 Username: admin  
