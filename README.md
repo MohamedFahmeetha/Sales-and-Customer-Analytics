@@ -20,6 +20,16 @@ JavaScript
 index.html  - Main file that contains UI, styles, and script
 README.md   - Project description
 
+Screenshots:
+
+ Login Page
+![Login](login.png)
+
+Dashboard
+![Dashboard](dashboard.png)
+![Dashboard1](dashboard1.png)
+![Dashboard2](dashboard2.png)
+
 Login Details:
 Use these credentials to access the dashboard:
 Username: admin  
